@@ -12,7 +12,7 @@ My name is Evgeny. I'm currently developing proficiency in SQL, Python, statisti
 
 **Contact me:**
 * E-mail: eadubrovin@gmail.com
-* Telegram: @evg_dbrvn
+* Telegram: [@evg_dbrvn](https://t.me/evg_dbrvn)
 
 
 <!--
