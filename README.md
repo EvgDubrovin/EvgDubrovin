@@ -1,6 +1,7 @@
 ### Hi there! 👋
 
-My name is Evgeny. I'm currently developing proficiency in SQL, Python, statistics and other data analytics skills.
+My name is Evgeny. I'm currently developing proficiency in SQL, Python, statistics and other data analytics skills.  
+Looking for a job as a junior/intern data analyst.
 
 **My certificates:**
 * [Google Data Analytics](https://coursera.org/share/0d043b46b7266ad0e950643238b31c90)
