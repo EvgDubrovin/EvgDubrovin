@@ -9,9 +9,9 @@ Looking for a job as a junior/intern data analyst.
 * [Google Data Analytics](https://coursera.org/share/0d043b46b7266ad0e950643238b31c90)
 * [Interactive SQL simulator](https://stepik.org/cert/861006)
 * [Python programming](https://stepik.org/cert/370691)
-* [Basic Python]([https://drive.google.com/file/d/1Wwh2t9aR9pGxG-B0ry_OuGa_CL0Mu7ke/view?usp=sharing](https://drive.google.com/file/d/1-p9C7k06F4iVeuAV5uRqWfAdtAIzhVrb/view?usp=sharing))
+* [Basic Python](https://drive.google.com/file/d/1-p9C7k06F4iVeuAV5uRqWfAdtAIzhVrb/view?usp=sharing)
 * [Basic Statistics](https://stepik.org/cert/305632)
-* [Intro to SQL](https://drive.google.com/file/d/1zQF2D9nqijcNjPj2gzKUIR66RHkZooZX/view?usp=sharing)
+* [Intro to SQL](https://drive.google.com/file/d/1yBKXDNdEwNozvdZ9HGj6Edqzenok4gxm/view?usp=sharing)
 
 **Contact me:**
 * E-mail: eadubrovin@gmail.com
