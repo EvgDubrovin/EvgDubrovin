@@ -4,6 +4,13 @@ My name is Evgeny. I'm currently developing proficiency in SQL, Python, statisti
 
 Looking for a job as a junior/intern data analyst.
 
+**Portfolio:**
+* [Feed + messenger app dashboards in Superset](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/1_dashboards)
+* [The app metrics reports automatization with Telegram-bot](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/2_reports_automatization)
+* [The app alerting system](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/3_anomalies_alerts)
+* [A/B tests analysis of a new feature](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/5_AB_tests)
+* [ETL-pipeline with Airflow](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/6_ETL_pipeline)
+
 **My certificates:**
 * [Data Analyst Simulator](https://drive.google.com/file/d/1pYSw21mLEC9skVX-ovlHEGv9LBq6c0fT/view?usp=sharing)
 * [Google Data Analytics](https://coursera.org/share/0d043b46b7266ad0e950643238b31c90)
