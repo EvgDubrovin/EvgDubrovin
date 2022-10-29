@@ -8,6 +8,7 @@ Looking for a job as a junior/intern data analyst.
 * [Feed + messenger app dashboards in Superset](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/1_dashboards)
 * [The app metrics reports automatization with Telegram-bot](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/2_reports_automatization)
 * [The app alerting system](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/3_anomalies_alerts)
+* [The product metrics ad-hoc analysis](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/4_product_metrics_questions)
 * [A/B tests analysis of a new feature](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/5_AB_tests)
 * [ETL-pipeline with Airflow](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/6_ETL_pipeline)
 * [You-tube channel analysis with API data scraping](https://github.com/EvgDubrovin/Web_Scraping/blob/main/YouTube_API.ipynb)
