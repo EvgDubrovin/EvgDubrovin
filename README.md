@@ -6,14 +6,14 @@ Looking for a job as a junior/intern data analyst.
 
 **Portfolio:**
 * [Feed + messenger app dashboards in Superset](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/1_dashboards)
-* [The app metrics reports automatization with Telegram-bot](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/2_reports_automatization)
-* [The app alerting system](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/3_anomalies_alerts)
-* [The product metrics ad-hoc analysis](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/4_product_metrics_questions)
-* [A/B tests analysis of a new feature](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/5_AB_tests)
+* [The app metrics reports automatization with Telegram-bot](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/2_reports_automatization) (Python, GitLab CI/CD)
+* [The app alerting system](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/3_anomalies_alerts) (Python, GitLab CI/CD)
+* [The product metrics ad-hoc analysis](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/4_product_metrics_questions) (Superset, SQL)
+* [A/B tests analysis of a new feature](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/5_AB_tests) (Python)
 * [ETL-pipeline with Airflow](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/6_ETL_pipeline)
-* [You-tube channel analysis with API data scraping](https://github.com/EvgDubrovin/Web_Scraping/blob/main/YouTube_API.ipynb)
+* [You-tube channel analysis with API data scraping](https://github.com/EvgDubrovin/Web_Scraping/blob/main/YouTube_API.ipynb) (Python)
 * [Some interesting SQL scripts that i made on LeetCode, StrataScratch, ITResume, Stepik, etc.](https://github.com/EvgDubrovin/SQL)
-* [A/B testing of a new feature in a mobile game](https://www.kaggle.com/evgenevgen/mobile-game-a-b-testing)
+* [A/B testing of a new feature in a mobile game](https://www.kaggle.com/evgenevgen/mobile-game-a-b-testing) (Python)
 * [A store customer analysis dashboard in Tableau](https://public.tableau.com/app/profile/evgeny8602/viz/CustomerAnalysis_usStoreSales/Dashboard1)
 
 **My certificates:**
