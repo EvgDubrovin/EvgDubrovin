@@ -12,6 +12,7 @@ Looking for a job as a junior/intern data analyst.
 * [A/B tests analysis of a new feature](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/5_AB_tests) (Python)
 * [ETL-pipeline with Airflow](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/6_ETL_pipeline)
 * [You-tube channel analysis with API data scraping](https://github.com/EvgDubrovin/Web_Scraping/blob/main/YouTube_API.ipynb) (Python)
+* [Customer analysis and further recommendations for bike-sharing company](https://www.kaggle.com/code/evgenevgen/bike-share-company-data-analysis-gdac-cs1/notebook) (R)
 * [Some interesting SQL scripts that i made on LeetCode, StrataScratch, ITResume, Stepik, etc.](https://github.com/EvgDubrovin/SQL)
 * [A/B testing of a new feature in a mobile game](https://www.kaggle.com/evgenevgen/mobile-game-a-b-testing) (Python)
 * [A store customer analysis dashboard in Tableau](https://public.tableau.com/app/profile/evgeny8602/viz/CustomerAnalysis_usStoreSales/Dashboard1)
