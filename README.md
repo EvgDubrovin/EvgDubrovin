@@ -5,17 +5,17 @@ My name is Evgeny. I'm currently developing proficiency in SQL, Python, statisti
 Looking for a job as a junior/intern data analyst.
 
 **Portfolio:**
-* [Feed + messenger app dashboards in Superset](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/1_dashboards)
+* [Feed + messenger app dashboards](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/1_dashboards) (in Superset)
 * [The app metrics reports automatization with Telegram-bot](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/2_reports_automatization) (Python, GitLab CI/CD)
 * [The app alerting system](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/3_anomalies_alerts) (Python, GitLab CI/CD)
 * [The product metrics ad-hoc analysis](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/4_product_metrics_questions) (Superset, SQL)
 * [A/B tests analysis of a new feature](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/5_AB_tests) (Python)
-* [ETL-pipeline with Airflow](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/6_ETL_pipeline)
+* [ETL-pipeline](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/6_ETL_pipeline) (with Airflow)
 * [You-tube channel analysis with API data scraping](https://github.com/EvgDubrovin/Web_Scraping/blob/main/YouTube_API.ipynb) (Python)
 * [Customer analysis and further recommendations for bike-sharing company](https://www.kaggle.com/code/evgenevgen/bike-share-company-data-analysis-gdac-cs1/notebook) (R)
-* [Some interesting SQL scripts that i made on LeetCode, StrataScratch, ITResume, Stepik, etc.](https://github.com/EvgDubrovin/SQL)
+* [Some interesting SQL scripts](https://github.com/EvgDubrovin/SQL) (that i made on LeetCode, StrataScratch, ITResume, Stepik, etc.)
 * [A/B testing of a new feature in a mobile game](https://www.kaggle.com/evgenevgen/mobile-game-a-b-testing) (Python)
-* [A store customer analysis dashboard in Tableau](https://public.tableau.com/app/profile/evgeny8602/viz/CustomerAnalysis_usStoreSales/Dashboard1)
+* [A store customer analysis dashboard](https://public.tableau.com/app/profile/evgeny8602/viz/CustomerAnalysis_usStoreSales/Dashboard1) (in Tableau)
 
 **My certificates:**
 * [Data Analyst Simulator](https://drive.google.com/file/d/1pYSw21mLEC9skVX-ovlHEGv9LBq6c0fT/view?usp=sharing)
