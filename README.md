@@ -15,6 +15,7 @@ Looking for a job as a junior/intern data analyst.
 * [Customer analysis and further recommendations for bike-sharing company](https://www.kaggle.com/code/evgenevgen/bike-share-company-data-analysis-gdac-cs1/notebook) (R)
 * [Some interesting SQL scripts](https://github.com/EvgDubrovin/SQL) that i made on LeetCode, StrataScratch, ITResume, Stepik, etc.
 * [A/B testing of a new feature in a mobile game](https://www.kaggle.com/evgenevgen/mobile-game-a-b-testing) (Python)
+* [Populating tables with random generated data](https://github.com/EvgDubrovin/Test_Assignments/tree/main/Company_2) (PostgreSQL)
 * [A store customer analysis dashboard](https://public.tableau.com/app/profile/evgeny8602/viz/CustomerAnalysis_usStoreSales/Dashboard1) (Tableau)
 
 **My certificates:**
