@@ -21,6 +21,7 @@ Looking for a job as a junior/intern data analyst.
 * [A store customer analysis dashboard](https://public.tableau.com/app/profile/evgeny8602/viz/CustomerAnalysis_usStoreSales/Dashboard1) (Tableau)
 
 **My certificates:**
+* [Data Analyst Professional](https://www.datacamp.com/certificate/DA0025071210038)
 * [Data Analyst Associate](https://www.datacamp.com/certificate/DAA0016122312249)
 * [Data Analyst Simulator](https://drive.google.com/file/d/1pYSw21mLEC9skVX-ovlHEGv9LBq6c0fT/view?usp=sharing)
 * [Google Data Analytics](https://coursera.org/share/0d043b46b7266ad0e950643238b31c90)
