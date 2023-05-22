@@ -13,7 +13,7 @@ Looking for a job as a junior/intern data analyst.
 * [ETL-pipeline](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/6_ETL_pipeline) (Airflow)
 * [Flight and train tickets scrapers](https://github.com/EvgDubrovin/Web_Scraping/tree/main/Trips_Scraper) (Python)
 * [Sales strategy analysis](https://github.com/EvgDubrovin/DataCamp/tree/main/professional_exam) (Python)
-* [Customer analysis and further recommendations for bike-sharing company](https://www.kaggle.com/code/evgenevgen/bike-share-company-data-analysis-gdac-cs1/notebook) (R)
+* [Customer analysis and further recommendations for a bike-sharing company](https://www.kaggle.com/code/evgenevgen/bike-share-company-data-analysis-gdac-cs1/notebook) (R)
 * [You-tube channel analysis with API data scraping](https://github.com/EvgDubrovin/Web_Scraping/blob/main/YouTube_API.ipynb) (Python)
 * [Some interesting SQL scripts](https://github.com/EvgDubrovin/SQL) that i made on LeetCode, StrataScratch, ITResume, Stepik, etc.
 * [A/B testing of a new feature in a mobile game](https://www.kaggle.com/evgenevgen/mobile-game-a-b-testing) (Python)
