@@ -13,10 +13,10 @@ Looking for a job as a junior/intern data analyst.
 * [ETL-pipeline](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/6_ETL_pipeline) (Airflow)
 * [Flight and train tickets scrapers](https://github.com/EvgDubrovin/Web_Scraping/tree/main/Trips_Scraper) (Python)
 * [Sales strategy analysis](https://github.com/EvgDubrovin/DataCamp/tree/main/professional_exam) (Python)
-* [Customer analysis and further recommendations for a bike-sharing company](https://www.kaggle.com/code/evgenevgen/bike-share-company-data-analysis-gdac-cs1/notebook) (R)
-* [You-tube channel analysis with API data scraping](https://github.com/EvgDubrovin/Web_Scraping/blob/main/YouTube_API.ipynb) (Python)
-* [Some interesting SQL scripts](https://github.com/EvgDubrovin/SQL) that i made on LeetCode, StrataScratch, ITResume, Stepik, etc.
 * [A/B testing of a new feature in a mobile game](https://github.com/EvgDubrovin/Statistics/blob/main/A-B-tests/Mobile_Game_AB_Testing.ipynb) (Python)
+* [You-tube channel analysis with API data scraping](https://github.com/EvgDubrovin/Web_Scraping/blob/main/YouTube_API.ipynb) (Python)
+* [Customer analysis and further recommendations for a bike-sharing company](https://www.kaggle.com/code/evgenevgen/bike-share-company-data-analysis-gdac-cs1/notebook) (R)
+* [Some interesting SQL scripts](https://github.com/EvgDubrovin/SQL) that i made on LeetCode, StrataScratch, ITResume, Stepik, etc.
 * [EDA, data cleaning, visualizing and data analysis practice](https://github.com/EvgDubrovin/KarpovCourses_Demo) (Python)
 * [Populating tables with random generated data](https://github.com/EvgDubrovin/Test_Assignments/tree/main/Company_2) (PostgreSQL)
 * [A store customer analysis dashboard](https://public.tableau.com/app/profile/evgeny8602/viz/CustomerAnalysis_usStoreSales/Dashboard1) (Tableau)
