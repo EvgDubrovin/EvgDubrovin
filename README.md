@@ -19,6 +19,7 @@ Looking for a job as a junior/intern data analyst.
 * [Some interesting SQL scripts](https://github.com/EvgDubrovin/SQL) that i made on LeetCode, StrataScratch, ITResume, Stepik, etc.
 * [EDA, data cleaning, visualizing and data analysis practice](https://github.com/EvgDubrovin/KarpovCourses_Demo) (Python)
 * [Populating tables with random generated data](https://github.com/EvgDubrovin/Test_Assignments/tree/main/Company_2) (PostgreSQL)
+* [Customer churn analysis dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGUyYjM1ODktYjkyMS00Y2Q2LTg5YjctMDc4YzdhMGI0NmE0IiwidCI6IjYyYmE2MWMyLWFiNzktNDM3Mi1iM2IxLTNlNGVhYTQ4YTExMSIsImMiOjEwfQ%3D%3D&pageName=ReportSectionfa2b85dbb5eee0273f2e) (Power BI)
 * [A store customer analysis dashboard](https://public.tableau.com/app/profile/evgeny8602/viz/CustomerAnalysis_usStoreSales/Dashboard1) (Tableau)
 
 **My certificates:**
