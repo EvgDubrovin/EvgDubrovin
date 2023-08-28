@@ -2,8 +2,6 @@
 
 My name is Evgeny. I'm currently developing proficiency in SQL, Python, statistics and other data analytics skills.  
 
-Looking for a job as a junior/intern data analyst.
-
 **Portfolio:**
 * [Feed + messenger app dashboards](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/1_dashboards) (Superset)
 * [The app metrics reports automatization with Telegram-bot](https://github.com/EvgDubrovin/Data_Analyst_Simulator/tree/main/2_reports_automatization) (Python, GitLab CI/CD)
